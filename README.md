@@ -32,7 +32,8 @@ A Regression type prediction model using *Random Forest Regression* algorithm. I
 
 
 #### Output
-  ![image](https://github.com/user-attachments/assets/d16be8a0-71bb-4c37-99a1-239d0fb0a6f3)
+  ![image](https://github.com/user-attachments/assets/d617aac1-4ee1-42c3-914b-f6253c061b05)
+
 
 
 ### Dockers
